@@ -16,7 +16,5 @@ public class HumanTester2 {
 		System.out.println("이름:" + chulsu.getName());
 		System.out.println("신장:" + chulsu.getheight() + "cm");
 		System.out.println("체중:" + chulsu.getweight() + "kg");
-
 	}
-
 }

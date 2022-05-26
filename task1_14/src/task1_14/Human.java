@@ -1,11 +1,11 @@
-package task1_13;
-//사람 클래스(Ver.2)
-class Human2 {
+package task1_14;
+
+class Human {
 	private String name;
 	private int height;
 	private int weight;
 	
-	Human2(String n, int h, int w){
+	Human(String n, int h, int w){
 		name = n; height = h; weight = w;
 	}
 	String getName() { return name;}

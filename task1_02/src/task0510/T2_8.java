@@ -18,7 +18,7 @@ Scanner scanner = new Scanner(System.in);
     	
     	
     	if(c>b) {
-    		if(a<b)
+    		if(a<b);
     			
     	}
 
